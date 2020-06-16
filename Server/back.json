@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "title": "React Calculator",
+        "description": "Simple React Calculator app."
+    },
+    {
+        "id": 2,
+        "title": "Oneline Store",
+        "description": "We are looking at a Store"
+    },
+    {
+        "id": 3,
+        "title": "Oneline Store",
+        "description": "We are looking at a Store"
+    }
+]

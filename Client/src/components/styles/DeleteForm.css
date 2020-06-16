@@ -1,0 +1,40 @@
+.deleteForm {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    color: ghostwhite;
+}
+
+.deleteButton {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 30px;
+}
+
+.deleteTitle {
+    display: flex;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: ghostwhite;
+    margin-top: 10px;
+}
+
+.deleteInfo {
+    margin: 20px 0;
+}
+
+.deleteLabel {
+    margin-right: 10px;
+}
+
+.deleteInput {
+    background-color: black;
+    border: 1px solid red;
+    color: ghostwhite;
+}
+
+::placeholder {
+    color: ghostwhite;
+    font-family: 'Courier New', Courier, monospace;
+}
